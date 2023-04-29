@@ -18,8 +18,8 @@
 </div> <!--confg do card do Instagram. -->
 
 ### Main skills:
-  ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
- ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
@@ -30,7 +30,7 @@
   
 ### Studying in this moment:
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-  ![Englesh](https://img.shields.io/badge/-english-0D1117?style=for-the-badge&logo=english&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Englesh](https://img.shields.io/badge/-english-0D1117?style=for-the-badge&logo=english&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Django](https://img.shields.io/badge/-django-0D1117?style=for-the-badge&logo=django&logoColor=1572B6&labelColor=0D1117)&nbsp;
   
    <div align="center">
