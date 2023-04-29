@@ -33,4 +33,9 @@
   ![Englesh](https://img.shields.io/badge/-english-0D1117?style=for-the-badge&logo=english&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Django](https://img.shields.io/badge/-django-0D1117?style=for-the-badge&logo=django&logoColor=1572B6&labelColor=0D1117)&nbsp;
   
- 
+   <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{juniorfranklin}/count.svg" /></p> 
+<br></div>  <!-- contador de visitas-->
+
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
